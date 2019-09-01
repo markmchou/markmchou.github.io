@@ -103,7 +103,7 @@
     {
       "company": "Boys & Girls Club of San Francisco, Tenderloin Clubhouse",
       "position": "Assistant to High School Services Director",
-      "website": "",
+      "website": "https://www.kidsclub.org",
       "startDate": "2016-10-01",
       "endDate": "2017-08-15",
       "summary": "",
@@ -117,7 +117,7 @@
   "volunteer": [
     {
       "organization": "Salesforce",
-      "website": "",
+      "website": "https://www.myeep.org/programs/bizacademy/",
       "position": "BizUniversity Intern",
       "startDate": "2017-01-15",
       "endDate": "2017-03-15",
@@ -129,22 +129,22 @@
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
+      "organization": "Mayor's Youth Employment and Education Program",
+      "website": "https://www.myeep.org",
+      "position": "Participant in Job Readiness Training",
+      "startDate": "2013-10-01",
+      "endDate": "2013-12-20",
       "summary": "",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Practiced and improved public speaking skills, created and presented a PowerPoint presentation",
+        "Collaborated with peers to complete group projects and activities",
+        "Participated in time management, budgeting, professionalism and communication workshops"
       ]
     }
   ],
   "awards": [
     {
-      "title": "University of Hawai‘i at Mānoa Dean’s List ",
+      "title": "University of Hawai‘i at Mānoa Dean’s List",
       "date": "present",
       "awarder": "",
       "summary": ""
