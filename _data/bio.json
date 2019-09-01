@@ -76,10 +76,10 @@
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "University of Hawai‘i at Mānoa, Honolulu, HI",
+      "area": "Finance & Management Information Systems (expected Summer, 2020)",
+      "studyType": "B.B.A.",
+      "startDate": "2017-08-20",
       "endDate": "Present",
       "gpa": "",
       "courses": [
@@ -88,41 +88,44 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "University of Hawai‘i at Mānoa",
+      "position": "Assistant to Teacher's Assistant for ICS 101 Course",
       "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "startDate": "2018-08-01",
+      "endDate": "2018-12-15",
+      "summary": "",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Helped students get back on track with the lesson when they are lost or confused in lab session",
+        "Created two lesson plans and taught them to the class",
+        "Tutored students that needed help in the course for at least three hours weekly"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
+      "company": "Boys & Girls Club of San Francisco, Tenderloin Clubhouse",
+      "position": "Assistant to High School Services Director",
+      "website": "",
+      "startDate": "2016-10-01",
+      "endDate": "2017-08-15",
       "summary": "",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Answered phone in professional manner, wrote down detailed messages, and accessed messages on machine",
+        "Learned and understood how to enter data into the TraxSolutions database and the process for double checking it",
+        "Started sign-in sheets for programs, knew where to find completed sheets if needed, and made copies of sheet"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Salesforce",
+      "website": "",
+      "position": "BizUniversity Intern",
+      "startDate": "2017-01-15",
+      "endDate": "2017-03-15",
+      "summary": "",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Attended workshops to explore the departments of Salesforce which included technology, marketing, and sales",
+        "Learned about history and purpose of Salesforce and how they became a successful business",
+        "Created an imaginary app with peers and presented the product to a group of Salesforce employees"
       ]
     },
     {
@@ -141,16 +144,16 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "title": "University of Hawai‘i at Mānoa Dean’s List ",
+      "date": "present",
+      "awarder": "",
+      "summary": ""
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Boys & Girls Club Youth of the Year Scholar",
+      "date": "2016",
+      "awarder": "Boys & Girls Clubs of San Francisco",
+      "summary": ""
     }
   ],
   "references": [
