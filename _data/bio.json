@@ -21,11 +21,6 @@
         "url": "http://github.com/markmchou"
       },
       {
-        "network": "linkedin",
-        "username": "",
-        "url": "http://linkedin.com/in/"
-      },
-      {
         "network": "instagram",
         "username": "markmchou",
         "url": "http://instagram.com/markmchou/"
@@ -144,13 +139,13 @@
   ],
   "awards": [
     {
-      "title": "University of Hawai‘i at Mānoa Dean’s List",
+      "title": "Dean’s List",
       "date": "present",
-      "awarder": "",
+      "awarder": "University of Hawai‘i at Mānoa",
       "summary": ""
     },
     {
-      "title": "Boys & Girls Club Youth of the Year Scholar",
+      "title": "Youth of the Year Scholar",
       "date": "2016",
       "awarder": "Boys & Girls Clubs of San Francisco",
       "summary": ""
