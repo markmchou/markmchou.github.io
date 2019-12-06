@@ -20,6 +20,6 @@ From this assignment, I learned that you have to comment on all of your code. Th
 <br> 40% of the time was spent thinking about how to do something and 60% of the time was spent writing the code
 
 <br> What worked well: Working with a partner worked well because it cut the work in half and we were able to be more creative with the code and design. 
-<br> What did not work well: Throughout the project, we had a lot of stupid mistakes that would get us frustrated. They were hard to find because there were many files and lots of code. We need to be more detail oriented and catch those mistakes, or at least use console to find where the error is in the file. 
+<br> What did not work well: Throughout the project, we had a lot of stupid mistakes that would get us frustrated. They were hard to find because there were many files and lots of code. We need to be more detail-oriented and catch those mistakes, or at least use console to find where the error is in the file. 
 
-<br> If I could go back and do things differently, I would spend more time commenting on my code. I would have saved more time if I knew where things where and what things were. Once I added comments, it made the process of creating assignment 2 a lot smoother and faster.  
+<br> If I could go back and do things differently, I would spend more time commenting on my code. I would have saved more time if I knew where things were and what things were. Once I added comments, it made the process of creating assignment 2 a lot smoother and faster.  
