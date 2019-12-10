@@ -1,8 +1,8 @@
 ---
 layout: essay
 type: essay
-title: Checkpoint 1: Assignment 4
-date: 2019-12-05
+title: Checkpoint 1 - Assignment 4
+date: 2019-12-09
 labels:
   - Assignment
   - Checkpoint
