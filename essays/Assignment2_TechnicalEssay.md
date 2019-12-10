@@ -8,7 +8,10 @@ labels:
   - Login
   - Registration
 ---
-From this assignment, I learned that you have to comment on all of your code. This assignment had many pages and files, I got lost and unorganized. I realized that I needed to put comments on things to understand what they were and where things were. I also learned to google a lot of the code that I was struggling with. There are many great resources out there and it saves time from asking Professor Port or a classmate. And of course, furthering my knowledge in coding and improving/building upon my skills. 
+Assignment 2 is an upgrade of what we did in assignment 1. We added a login page and registration page where users can join our website if they want to make a purchase. Just like how assignment 1 checked if the quantity data was valid, assignment 2 checked if the user's name, username, email, and password were in the correct guidelines. When a user registers for the website, the data gets saved in an array so the site can remember the information if the user needs to log in. 
+https://github.com/famiguel/ITM352_F19_repo/tree/master/Miguel_Chou_Assignment2
+
+<br>From this assignment, I learned that you have to comment on all of your code. This assignment had many pages and files, I got lost and unorganized. I realized that I needed to put comments on things to understand what they were and where things were. I also learned to google a lot of the code that I was struggling with. There are many great resources out there and it saves time from asking Professor Port or a classmate. And of course, furthering my knowledge in coding and improving/building upon my skills. 
 
 <br>Partner Contribution: Me -  50% | Faye Miguel - 50% 
 <br>Faye and I sat down, side by side to work on the code. We worked on the assignment together every time, nobody worked alone. We collaborated on what we wanted to do and how to design the website. It helped a lot because I was able to see things and do different codes with a new perspective. I have trouble with designing, so Faye helps a lot in making me more creative with that. 
